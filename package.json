@@ -1,0 +1,16 @@
+{
+  "name": "sassy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.42.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "sass base.scss:base.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
